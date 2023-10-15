@@ -13,7 +13,7 @@ is not.
 
 * The structure of the model is simple and attains a high level of accuracy easily. Next you can see the preprocessing layers where each input is proccessed by a RNN
 
-![Image](/Users/rene.velazquez/Documents/Tensorflow/Transposition_detector/preprocessing_layer.png "Image")
+![Preprocessing Layers](https://github.com/ReneAsc/TranspositionsDetector/blob/main/preprocessing_layer.png "PreprocessingLayers")
 
 ---
 
